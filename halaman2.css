@@ -1,0 +1,26 @@
+* {
+  Padding: 0px;
+  margin: 0px;
+}
+
+h1{
+  font-family: comfortaa;
+  color: white;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.konten1{
+  color:white;
+  text-align: center;
+}
+
+.konten2{
+  color:white;
+  text-align: center;
+}
+
+body{
+	background: url("blackandwhite.jpg") fixed;
+  background-blend-mode: darken;
+}

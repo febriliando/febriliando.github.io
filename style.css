@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background: white;
+	text-align: right;
+}
+
+header ul li a {
+	margin-right: 50px;
+}
+
+
+body{
+	background: url("blackandwhite.jpg") fixed;
+}
+
+nav ul li a {
+	font-family: comfortaa;
+	font-color: white;
+}
+
+h1{
+	color: white;
+	font-family: comfortaa;
+	text-align:center;
+	margin-top: 350px;
+}
+.fe {
+	font-family: comfortaa;
+	text-align: center;
+	margin-top: 5px;
+	color: white;
+}
